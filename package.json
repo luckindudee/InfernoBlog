@@ -1,0 +1,29 @@
+{
+  "name": "bloggy",
+  "version": "1.0.0",
+  "description": "Blog page MEAN Stack ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckindudee/InfernoBlog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "App"
+  ],
+  "author": "Luckindu Dissanayake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luckindudee/InfernoBlog/issues"
+  },
+  "homepage": "https://github.com/luckindudee/InfernoBlog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9"
+  }
+}
